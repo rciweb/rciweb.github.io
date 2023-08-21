@@ -1,0 +1,19 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+html
+{
+	height: 100%;
+	width:100%;
+}
+body
+{
+	height: 100%;
+	width: 100%;
+	background: #8c52ff url(logo.jpg) 50% 50% no-repeat;
+	background-size: 25%;
+	color: white;
+}
